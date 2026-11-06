@@ -1,0 +1,6 @@
+{
+  "appId": "com.nationvk.nexusai",
+  "appName": "NEXUS AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
